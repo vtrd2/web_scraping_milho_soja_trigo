@@ -1,0 +1,2 @@
+# web_scraping_milho_soja_trigo
+This is a web scraping project with python in which a website is accessed (https://www.cotrirosa.com/servicos/cotacoes/) and the price of corn, soy and wheat products is obtained. These data are saved in data.json and 7 graphs are generated, 3 that show all product data, one that shows all products in the same chart and another 3 that show the price of products in the last 30 days.
