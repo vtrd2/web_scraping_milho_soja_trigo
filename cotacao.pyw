@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from datetime import date
 from functools import total_ordering
 
-os.chdir(r'C:\Users\Paulo\Desktop\Python\projects\cotação')
+os.chdir(r'put here the directory where you want the images to be saved')
 
 def pra_numeric(valor):
     valor = valor.replace(',', '.')
